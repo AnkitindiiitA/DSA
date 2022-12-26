@@ -1,3 +1,6 @@
+//must do reversal of doubly linked list;
+
 1)Reverse a Linked List: https://bit.ly/3H1lKov
 2)find Middle of a Linked List: https://bit.ly/3tRF3ga
-
+3)**(v.v.i)Reverse a Linked List in K group: https://bit.ly/3r1rCIP
+4)Circular Linked List or not: https://bit.ly/3qY0KcF
