@@ -5,3 +5,6 @@
 3)**(v.v.i)Reverse a Linked List in K group: https://bit.ly/3r1rCIP
 4)Circular Linked List or not: https://bit.ly/3qY0KcF
 5)Detect & Remove Loop in Linked List: https://bit.ly/3rSdTDo
+6)Remove Duplicates from Sorted Linked List: https://bit.ly/3rjMQC5
+7)Remove Duplicates from Un-Sorted Linked List: https://bit.ly/3uaGRRU
+8)Split A Circular Linked List: https://www.codingninjas.com/codestudio/problems/split-a-circular-linked-list_1071003
