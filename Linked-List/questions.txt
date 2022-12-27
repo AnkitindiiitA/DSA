@@ -4,3 +4,4 @@
 2)find Middle of a Linked List: https://bit.ly/3tRF3ga
 3)**(v.v.i)Reverse a Linked List in K group: https://bit.ly/3r1rCIP
 4)Circular Linked List or not: https://bit.ly/3qY0KcF
+5)Detect & Remove Loop in Linked List: https://bit.ly/3rSdTDo
