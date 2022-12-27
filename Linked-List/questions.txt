@@ -10,3 +10,4 @@
 8)Split A Circular Linked List: https://www.codingninjas.com/codestudio/problems/split-a-circular-linked-list_1071003
 9)Sort 0s, 1s and 2s : https://bit.ly/3s3fAOu
 10)Merge 2 sorted Linked List : https://bit.ly/3rfFdfV
+11)Palindrome Linked List: https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
