@@ -13,3 +13,8 @@
 11)Palindrome Linked List: https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1
 12)Add 2 Numbers rep. by Linked List:  https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1
 13)Clone Linked List with Random Pointers:  https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1
+14)Merge Sort Linked List:  https://bit.ly/3GsXWsz
+15)Flatten a Linked List: https://bit.ly/3GoASv6
+16)why we prefer merge sort in linked list and quick sort in arrays?
+ans:  In linked list to access i’th index, we have to travel each and every node from the head to i’th node as we don’t have continuous block of memory. Therefore, the overhead increases for quick sort. Merge sort accesses data sequentially and the need of random access is low.
+link: https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/
