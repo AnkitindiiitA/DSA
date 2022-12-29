@@ -19,3 +19,4 @@
 ans:  In linked list to access i’th index, we have to travel each and every node from the head to i’th node as we don’t have continuous block of memory. Therefore, the overhead increases for quick sort. Merge sort accesses data sequentially and the need of random access is low.
 link: https://www.geeksforgeeks.org/why-quick-sort-preferred-for-arrays-and-merge-sort-for-linked-lists/
 love babber 450 questions : https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
+codestudio: https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms/content/118786/offering/1381239
