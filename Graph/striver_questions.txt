@@ -32,3 +32,6 @@ lect-42: Floyd Warshall Algorithm
 https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=implementing-floyd-warshall
 lect-43: Find the City With the Smallest Number of Neighbours at a Threshold Distance
 https://practice.geeksforgeeks.org/problems/city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=city-with-the-smallest-number-of-neighbors-at-a-threshold-distance
+lect-44: Minimum spanning tree-theory
+lect-45: Prim's Algorithm - Minimum Spanning Tree
+https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimum-spanning-treem
