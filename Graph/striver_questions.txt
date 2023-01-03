@@ -35,3 +35,5 @@ https://practice.geeksforgeeks.org/problems/city-with-the-smallest-number-of-nei
 lect-44: Minimum spanning tree-theory
 lect-45: Prim's Algorithm - Minimum Spanning Tree
 https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=minimum-spanning-treem
+lect-46: Disjoint Set | Union by Rank | Union by Size | Path Compression
+https://ide.geeksforgeeks.org/392f3f85-cb79-4631-9da2-3dd78e775873
