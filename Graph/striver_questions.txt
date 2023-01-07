@@ -55,3 +55,5 @@ lect-54: Strongly Connected Components - Kosaraju's Algorithm
 https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=strongly-connected-components-kosarajus-algo
 lect-55: Bridges in Graph - Using Tarjan's Algorithm of time in and low time
 https://leetcode.com/problems/critical-connections-in-a-network/submissions/873529850/
+lect-56: Articulation Point in Graph
+https://practice.geeksforgeeks.org/problems/articulation-point-1/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=articulation-point
