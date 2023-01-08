@@ -63,3 +63,7 @@ lect-55: Bridges in Graph - Using Tarjan's Algorithm of time in and low time
 https://leetcode.com/problems/critical-connections-in-a-network/submissions/873529850/
 lect-56: Articulation Point in Graph
 https://practice.geeksforgeeks.org/problems/articulation-point-1/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=articulation-point
+
+
+main topics:
+21-31: prerequisites: topological sort by dfs or bfs(kahn's algorithm);
