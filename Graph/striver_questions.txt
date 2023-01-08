@@ -1,5 +1,6 @@
 lect-1: Introduction to Graph | Types | Different Conventions Used
 lect-2: Graph Representation in C++ | Two Ways to Represent
+lect-3: Graph Representation in Java | Two Ways to Represent
 lect-21: Topological Sort |DFS :
 https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=topological-sort
 lect-22: Kahn's Algorithm | Topological Sort |BFS: 
