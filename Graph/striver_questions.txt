@@ -14,7 +14,9 @@ lect-14: Surrounded Regions | Replace O's with X's
 https://practice.geeksforgeeks.org/problems/replace-os-with-xs0052/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=replace-os-with-xs
 lect-15: Number of Enclaves | Multi-source BFS 
 https://practice.geeksforgeeks.org/problems/number-of-enclaves/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-enclaves
-lect-16: 
+lect-16: Number of Distinct Islands | Constructive Thinking + DFS
+https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=number-of-distinct-islands
+lect-17: 
 lect-21: Topological Sort |DFS :
 https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=topological-sort
 lect-22: Kahn's Algorithm | Topological Sort |BFS: 
