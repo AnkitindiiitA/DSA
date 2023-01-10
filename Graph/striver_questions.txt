@@ -20,7 +20,9 @@ lect-17: Bipartite Graph | BFS
 https://practice.geeksforgeeks.org/problems/bipartite-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bipartite-graph
 lect-18: Bipartite Graph | DFS
 https://practice.geeksforgeeks.org/problems/bipartite-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bipartite-graph
-lect-19: 
+lect-19: Detect cycle in a directed graph using DFS
+https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-a-directed-graph
+lect-20: 
 lect-21: Topological Sort |DFS :
 https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=topological-sort
 lect-22: Kahn's Algorithm | Topological Sort |BFS: 
