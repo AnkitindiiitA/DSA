@@ -4,6 +4,9 @@ lect-3: Graph Representation in Java | Two Ways to Represent
 lect-4: What are Connected Components ?
 lect-5: Breadth-First Search (BFS) | C++ and Java | Traversal Technique in Graphs
 https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=bfs_of_graph
+lect-11: G-11. Detect a Cycle in an Undirected Graph using BFS
+https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=detect-cycle-in-an-undirected-graph
+
 lect-21: Topological Sort |DFS :
 https://practice.geeksforgeeks.org/problems/topological-sort/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=topological-sort
 lect-22: Kahn's Algorithm | Topological Sort |BFS: 
