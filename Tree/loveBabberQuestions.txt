@@ -13,3 +13,26 @@ https://practice.geeksforgeeks.org/problems/determine-if-two-trees-are-identical
 lect 2: Sum Tree
 https://practice.geeksforgeeks.org/problems/sum-tree/1
 
+lect 3: ZigZag Tree Traversal
+https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1
+
+lect 3: Boundary Traversal of binary tree
+https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1
+
+lect 3: Vertical Traversal of Binary Tree
+https://practice.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1
+
+lect 3: Top View of Binary Tree
+https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1
+
+lect 3: Bottom View of Binary Tree
+https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1
+
+lect 3: Right View of Binary Tree
+https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1
+
+lect 3: Left View of Binary Tree
+https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1
+
+lect 3: Diagonal Traversal of Binary Tree
+https://practice.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1
