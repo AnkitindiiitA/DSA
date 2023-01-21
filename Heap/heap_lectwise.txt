@@ -1,1 +1,2 @@
-
+lect 1: Heaps in C++ || Heap Sort || Insertion/Deletion in Heap || Priority Queue STL
+source code: avalaible in the same heap folder
