@@ -74,4 +74,6 @@ https://www.codingninjas.com/codestudio/problems/_893049?topList=love-babbar-dsa
 lect 2: LCA of Two Nodes In A BST
 https://www.codingninjas.com/codestudio/problems/lca-in-a-bst_981280?leftPanelTab=0
 
+lect 3: Two Sum in BST
+https://www.codingninjas.com/codestudio/problems/two-sum-in-a-bst_1062631?leftPanelTab=0
 lect 3: 
