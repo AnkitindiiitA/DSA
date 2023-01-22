@@ -62,3 +62,5 @@ lect 1: Search In BST
 https://www.codingninjas.com/codestudio/problems/search-in-bst_1402878
 lect 1: Inorder Successor in BST
 https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
+lect 1: Predecessor and Successor
+https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
