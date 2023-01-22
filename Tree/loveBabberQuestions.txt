@@ -64,3 +64,6 @@ lect 1: Inorder Successor in BST
 https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1?utm_source=gfg&utm_medium=article&utm_campaign=bottom_sticky_on_article
 lect 1: Predecessor and Successor
 https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
+
+lect 2: Validate BST
+https://www.codingninjas.com/codestudio/problems/validate-bst_799483?leftPanelTab=0
