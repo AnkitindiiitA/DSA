@@ -67,3 +67,7 @@ https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1
 
 lect 2: Validate BST
 https://www.codingninjas.com/codestudio/problems/validate-bst_799483?leftPanelTab=0
+lect 2: Kth Smallest/Largest in BST
+https://www.codingninjas.com/codestudio/problems/find-k-th-smallest-element-in-bst_1069333?leftPanelTab=0
+lect 2: Inorder Predecessor/Successor
+https://www.codingninjas.com/codestudio/problems/_893049?topList=love-babbar-dsa-sheet-problems&leftPanelTab=0
