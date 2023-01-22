@@ -57,3 +57,4 @@ lect 7: Flatten binary tree to linked list
 https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1
 
 //binary search tree below
+lect 1: BST implementation source code is uploaded named as BSTimplementation.cpp
