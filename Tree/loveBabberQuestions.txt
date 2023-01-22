@@ -58,3 +58,5 @@ https://practice.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1
 
 //binary search tree below
 lect 1: BST implementation source code is uploaded named as BSTimplementation.cpp
+lect 1: Search In BST
+https://www.codingninjas.com/codestudio/problems/search-in-bst_1402878
