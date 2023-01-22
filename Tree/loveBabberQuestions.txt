@@ -76,4 +76,6 @@ https://www.codingninjas.com/codestudio/problems/lca-in-a-bst_981280?leftPanelTa
 
 lect 3: Two Sum in BST
 https://www.codingninjas.com/codestudio/problems/two-sum-in-a-bst_1062631?leftPanelTab=0
+lect 3: Flatten BST To A Sorted List
+https://www.codingninjas.com/codestudio/problems/flatten-bst-to-a-sorted-list_1169459?leftPanelTab=0
 lect 3: 
