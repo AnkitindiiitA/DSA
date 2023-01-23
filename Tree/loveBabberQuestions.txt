@@ -82,3 +82,11 @@ lect 3: Normal BST to Balanced BST
 https://www.codingninjas.com/codestudio/problems/normal-bst-to-balanced-bst_920472?leftPanelTab=0
 lect 3: BST from Preorder
 https://www.codingninjas.com/codestudio/problems/preorder-traversal-to-bst_893111?leftPanelTab=0
+
+lect 4: Merge Two BSTs
+https://www.codingninjas.com/codestudio/problems/h_920474?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
+
+lect 5: Size of Largest BST in Binary Tree
+https://www.codingninjas.com/codestudio/problems/largest-bst-subtree_893103?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
+
+//end
