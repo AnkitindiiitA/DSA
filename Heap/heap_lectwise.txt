@@ -1,2 +1,5 @@
 lect 1: Heaps in C++ || Heap Sort || Insertion/Deletion in Heap || Priority Queue STL
 source code: avalaible in the same heap folder
+
+lect 2: Kth smallest element
+https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
