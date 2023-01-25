@@ -3,3 +3,5 @@ source code: avalaible in the same heap folder
 
 lect 2: Kth smallest element
 https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
+lect 2: Is Binary Tree Heap
+https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1
