@@ -12,3 +12,6 @@ https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
 lect 2: BST to max heap
 https://practice.geeksforgeeks.org/problems/bst-to-max-heap/1
 
+lect 3: K-th Largest Sum Subarray
+https://www.codingninjas.com/codestudio/problems/k-th-largest-sum-contiguous-subarray_920398?leftPanelTab=0&utm_source=youtube&utm_medium=affiliate&utm_campaign=Lovebabbar
+lect 3: 
