@@ -1,0 +1,103 @@
+question link: https://www.interviewbit.com/problems/max-edge-queries/
+
+code:
+
+int N = 100005;
+const int LG = 20;
+int n;
+vector<int> level(N);
+vector<vector<int> > parent(LG, vector<int> (N));
+vector<vector<int> > maxEdge(LG, vector<int> (N));
+
+vector<vector<pair<int,int>  > > adj(N);
+
+
+//////implementation for storing just parent
+void dfs_lca(int node, int par, int lev){
+    level[node] = lev;
+    parent[0][node] = par;
+    
+    for(auto &ch:adj[node]){
+        if(ch.first == par)continue;
+        
+        maxEdge[0][ch.first] = ch.second;
+        
+        dfs_lca(ch.first, node, lev+1);
+    }
+}
+
+
+/////how to traverse uplifting best implementation
+int getMax(int a, int b){
+    
+    if(level[b] < level[a]){
+        swap(a,b);
+    }
+    
+    int ans=0;
+    
+    int diff = level[b] - level[a];
+    
+    while(diff > 0){
+        int log = log2(diff);
+        
+        ans = max(ans, maxEdge[log][b]);
+        
+        b = parent[log][b];
+        
+        diff -= (1<<log);
+    }
+    
+    while(a != b){
+        int i = log2(level[a]);
+        
+        while(i>0 && parent[i][a] == parent[i][b])i--;
+        
+        ans = max(ans, maxEdge[i][a]);
+        ans = max(ans, maxEdge[i][b]);
+        
+        a = parent[i][a];
+        b = parent[i][b];
+    }
+    
+    return ans;
+}
+
+////end
+
+
+vector<int> Solution::solve(vector<vector<int> > &A, vector<vector<int> > &B) {
+    
+    n = A.size()+1;
+    for(int i=0;i<=n;i++)adj[i].clear();
+    for(int i=0;i<A.size();i++){
+        
+        adj[A[i][0]].push_back(make_pair(A[i][1],A[i][2]));
+        adj[A[i][1]].push_back(make_pair(A[i][0],A[i][2]));
+        
+    }
+    
+    dfs_lca(1, 0, 0);
+    
+    //precompute parent & maxEdge
+    
+    for(int i=1;i<LG;i++){
+        for(int j=1;j<=n;j++){
+            parent[i][j] = parent[i-1][parent[i-1][j]];
+            
+            maxEdge[i][j] = max(maxEdge[i-1][j], maxEdge[i-1][parent[i-1][j]]);
+        }
+    }
+    
+    
+    int q = B.size();
+    vector<int> res(q);
+    for(int i=0;i<q;i++){
+        int u = B[i][0];
+        int v = B[i][1];
+        
+        res[i] = getMax(min(u,v), max(u,v));
+    }
+    
+    return res;
+}
